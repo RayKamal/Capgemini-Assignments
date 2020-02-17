@@ -1,0 +1,1 @@
+Create a method which accepts the id and the age of people 
